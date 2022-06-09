@@ -48,8 +48,14 @@ must be displayed.
     can view.
     
 ## How To Use
-+ You have to add the jar file in the mysql-connector-java-8.0.27 folder to the code.
 + You have to use MySQL server
++ You have to import bank.sql 
++ You have to add the jar file to connect java with MySQL.
+
+## Example Piece Of Project Image
+![Example](https://github.com/tahapek5454/Bank-Automation/blob/main/image/Temp.png)
+
+
 
      
       
